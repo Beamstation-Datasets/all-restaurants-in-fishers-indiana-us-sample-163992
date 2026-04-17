@@ -1,12 +1,12 @@
 {
-  "export_job_id": "b1350502-cea5-4f71-b6ad-c09917093be2",
+  "export_job_id": "367b1eda-5379-483e-a7b5-06343f8d32ab",
   "id_short": 163992,
-  "published_at": "2026-04-10T19:21:54Z",
+  "published_at": "2026-04-17T07:40:59Z",
   "repo_name": "all-restaurants-in-fishers-indiana-us-sample-163992",
   "sample_asset_name": "beamstation_163992_restaurants-us-in_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/163992/beamstation_163992_restaurants-us-in_SAMPLE_DIST.csv",
-  "sample_records": 22,
-  "sample_sha256": "722f56746e75b87de0b8d2cbf131838e3ae1f0ec1b53ffa56e64e92a9ecce1f6",
-  "sample_size_bytes": 103690,
-  "total_records": 220
+  "sample_records": 25,
+  "sample_sha256": "8d2ec09749fb5ab702f6400d13eb7ef2a5f9b86317f5c8ae9d9150307254b750",
+  "sample_size_bytes": 109845,
+  "total_records": 255
 }
