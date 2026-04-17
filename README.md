@@ -1,6 +1,6 @@
 # All Restaurants in Fishers, Indiana, US
 
-> Free BeamStation sample export with 22 rows and masked direct-contact fields.
+> Free BeamStation sample export with 25 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `163992` |
 | Location | Fishers |
 | Category | Restaurants |
-| Full dataset size | 220 records |
-| Free sample size | 22 records (10.0%) |
-| Last export | 2026-03-31T14:54:40.718941+00:00 |
+| Full dataset size | 255 records |
+| Free sample size | 25 records (9.8%) |
+| Last export | 2026-04-14T15:29:53.186975+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-fishers-indiana-us-sample-163992/releases/download/sample-latest/beamstation_163992_restaurants-us-in_SAMPLE_DIST.csv) |
 
 ## What is in this sample
